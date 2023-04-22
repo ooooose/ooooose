@@ -1,4 +1,10 @@
-### Hi there 👋
+### Github Stats
+<p align="center"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=ooooose&theme=algolia" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooooose&layout=compact&theme=algolia" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ooooose)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ooooose/ooooose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,10 +6,10 @@
   <a href="https://github.com/ooooose">
     <img height="20" src="https://img.shields.io/github/followers/ooooose?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/ooooose">
+  <a href="http://qiita.com/yuuki_0524">
     <img height="20" src="https://qiita-badge.apiapi.app/yuuki_0524/posts.svg" />
   </a>
-  <a href="http://qiita.com/ooooose">
+  <a href="http://qiita.com/yuuki_0524">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuuki_0524/contributions.svg" />
   </a>
   <a href="https://zenn.dev/ooooose">

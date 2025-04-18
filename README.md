@@ -1,4 +1,22 @@
 ### Github Stats
+<p align="left">
+  <a href="https://github.com/ooooose">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ooooose" />
+  </a>
+  <a href="https://github.com/ooooose">
+    <img height="20" src="https://img.shields.io/github/followers/ooooose?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/ooooose">
+    <img height="20" src="https://qiita-badge.apiapi.app/yuuki_0524/posts.svg" />
+  </a>
+  <a href="http://qiita.com/ooooose">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuuki_0524/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/ooooose">
+    <img height="20" src="https://badgen.org/img/zenn/ooooose/articles?style=plastic" />
+  </a>
+</p>
+
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=ooooose&theme=algolia" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooooose&layout=compact&theme=algolia" />
